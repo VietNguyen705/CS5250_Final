@@ -1,5 +1,5 @@
 """
-Grover's Algorithm - CS 3650 Final
+Grover's Algorithm - CS 5250 Final
 Searches a 3-qubit space (8 states) for the marked state |101>.
 Classical search: avg 4 lookups. Grover: 1 iteration finds it with high probability.
 """

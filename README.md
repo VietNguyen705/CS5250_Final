@@ -1,4 +1,4 @@
-# CS 3650 Final — Grover's Algorithm
+# CS 5250 Final — Grover's Algorithm
 
 Quantum search using Grover's algorithm on a 3-qubit space (8 possible states).
 The oracle marks the state `|101>`; one Grover iteration amplifies its amplitude
